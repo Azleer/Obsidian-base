@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "17457de779b611dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0372db603c352dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dadfb7cd5c367a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/README/Правила.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f694a3c6aaaadd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae5656e2565c17a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66706dcedfc69c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c9d6de779846264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ec6cf252ecc3a87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "183b0de899fa1b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19411fad5ea02e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b32407f4785f45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/README/Правила.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e3e7c797b4cd84e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/README/Правила.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a726f8491e0e6dfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f287e9e1a445961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/README/Правила.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "85dadfb7cd5c367a",
+  "lastOpenFiles": []
+}
